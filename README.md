@@ -7,9 +7,9 @@
 
 This repository comprises a jupyter file to classify histopathological images into cancirogen and not cancirogen, brief details:
 
-The challenge is a binary classidication problem to compare CNN models and parameters tunning.
-The dataset comprises 220025 training labeled images and 57458 unlabeled images to rank the methods via the challenge. Follow the kaggle link for more details.
-We tested several existing pre-trained models and two own architectures.t
+1. The challenge is a binary classidication problem to compare CNN models and parameters tunning.
+2. The dataset comprises 220025 training labeled images and 57458 unlabeled images to rank the methods via the challenge. Follow the kaggle link for more details.
+3. We tested several existing pre-trained models and two own architectures.t
 
 Here are the best results using only the train using a 80/20 split.
 
