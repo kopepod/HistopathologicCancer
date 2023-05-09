@@ -5,4 +5,16 @@
 
 <img src="https://github.com/kopepod/HistopathologicCancer/blob/f5e2e9a3c81243e96ba1d2fce5044429c2fc9420/header.png" width="100%" height="100%" />
 
-This repository comprises one solution to the kaggle dataset.
+This repository comprises a jupyter file to classify histopathological images into cancirogen and not cancirogen, brief details:
+
+The challenge is a binary classidication problem to compare CNN models and parameters tunning.
+The dataset comprises 220025 training labeled images and 57458 unlabeled images to rank the methods via the challenge. Follow the kaggle link for more details.
+We tested several existing pre-trained models and two own architectures.t
+
+Here are the best results using only the train using a 80/20 split.
+
+| Model | Accuracy |
+|-------|----------|
+|       |          |
+|       |          |
+|       |          |
