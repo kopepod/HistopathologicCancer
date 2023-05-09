@@ -9,9 +9,9 @@ This repository comprises a jupyter file to classify histopathological images in
 
 1. The challenge is a binary classidication problem to compare CNN models and parameters tunning.
 2. The dataset comprises 220025 training labeled images and 57458 unlabeled images to rank the methods via the challenge. Follow the kaggle link for more details.
-3. We tested several existing pre-trained models and two own architectures.t
+3. We tested several existing pre-trained models and two own architectures.
 
-Here are the best results using only the train using a 80/20 split.
+Here are the best results using only the training set and a  80/20 split.
 
 | Model | Accuracy |
 |-------|----------|
