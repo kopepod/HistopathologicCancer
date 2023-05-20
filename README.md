@@ -13,8 +13,7 @@ This repository comprises a jupyter file to classify histopathological images in
 
 Here are the best results using only the training set and a  80/20 split.
 
-| Model | Accuracy |
-|-------|----------|
-|       |          |
-|       |          |
-|       |          |
+| Model      | Accuracy |
+|------------|----------|
+| RS-18      | 0.85     |
+| MLP_C3P3F3 | 0.83     |
